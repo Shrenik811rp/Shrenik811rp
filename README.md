@@ -5,6 +5,9 @@
 - 📫 How to reach me at my personal email id : rshrenik811@gmail.com 
 - 📫 How to reach me at my academic email id : BL.EN.U4EAC19068@bl.students.amrita.edu
 - 📃 Here is my [portfolio](https://rshrenik811.wixsite.com/rshrenikportfolio) <br>
+
+[![Shrenik's github stats](https://github-readme-stats.vercel.app/api?username=Shrenik811rp)](https://github.com/Shrenik811rp/github-readme-stats)
+
 **Any suggestions or feedback are welcome 😊**
 
 <!---
