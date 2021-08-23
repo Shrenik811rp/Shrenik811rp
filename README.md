@@ -1,4 +1,4 @@
-<a href="#"><img width="80%" height="400px" src="https://cdn.dribbble.com/users/2020431/screenshots/7254215/media/86f77331db93858c882d502cc1479608.gif" height="175px"/></a>
+<a href="#"><img width="90%" height="450px" src="https://cdn.dribbble.com/users/2020431/screenshots/7254215/media/86f77331db93858c882d502cc1479608.gif" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shrenik R</h1>
 
 ## 🙋‍♂️ About Me
@@ -12,6 +12,7 @@
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+     <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -20,7 +21,9 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"                alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.tensorflow.org/" target="_blank">    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank">     <img src="https://img.icons8.com/nolan/64/matlab.png"/>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
@@ -39,7 +42,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Shrenik811rp/github-readme-activity-graph"><img alt="Shrenik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shrenik811rp&bg_color=0D1117&color=5BCDEC&line=42EFF5&point=F54278&hide_border=true" /></a>
+<a href="https://github.com/Shrenik811rp/github-readme-activity-graph"><img alt="Shrenik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shrenik811rp&bg_color=0D1117&color=fcba03&line=42EFF5&point=FC008B&hide_border=true" /></a>
 
 <br/>
 <br/>
