@@ -35,7 +35,7 @@
 </p>
 
 ## 📊 My Github Stats:
-[![Shrenik's github stats](https://github-readme-stats.vercel.app/api?username=Shrenik811rp&theme=algolia&show_icons=true)](https://github.com/Shrenik811rp/github-readme-stats)
+[![Shrenik's github stats](https://github-readme-stats.vercel.app/api?username=Shrenik811rp&theme=algolia&show_icons=true&hide_border=true)](https://github.com/Shrenik811rp/github-readme-stats)
 
 <a href="https://github.com/Shrenik811rp/github-readme-stats"><img alt="Shrenik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrenik811rp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
