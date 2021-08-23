@@ -58,6 +58,7 @@
 <a href="https://github.com/Shrenik811rp/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Shrenik811rp">
 </a>
+<br>
 <a href="https://github.com/Shrenik811rp?tab=followers"><img src="https://img.shields.io/github/followers/Shrenik811rp?label=Followers&style=social" alt="GitHub Badge"></a><br>
 
 ## Any suggestions or feedback are welcome 😊
