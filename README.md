@@ -52,7 +52,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shrenik-r-2a861b197/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "rshrenik811@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a></p>
 ## ❤ Views and Followers:
 <a href="https://github.com/Shrenik811rp/github-profile-views-counter">
