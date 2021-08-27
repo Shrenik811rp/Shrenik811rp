@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on projects related to machine learning or data science.
 - 📫 How to reach me at my personal email id : rshrenik811@gmail.com 
 - 📫 How to reach me at my academic email id : BL.EN.U4EAC19068@bl.students.amrita.edu
-- 📃 Here is my [portfolio](https://rshrenik811.wixsite.com/rshrenikportfolio) <br>
+- 📃 Here is my [portfolio](https://shrenik811rp.github.io/portfolio_v.0.0.2/) <br>
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
