@@ -52,8 +52,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shrenik-r-2a861b197/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a></p>
+<a href = "#">[<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/NickShawn18)</a>
+<a href = "#">[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:BL.EN.U4EAC19068@bl.students.amrita.edu)</a></p>
 ## ❤ Views and Followers:
 <a href="https://github.com/Shrenik811rp/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Shrenik811rp">
