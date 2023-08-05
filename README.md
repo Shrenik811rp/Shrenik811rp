@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="600px" src="https://getwallpapers.com/wallpaper/full/8/6/4/366696.jpg" height="100%"/></a>
+<a href="#"><img width="100%" height="600px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="100%"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Shrenik R</h1>
 
 ## 🙋‍♂️ About Me
