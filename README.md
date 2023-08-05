@@ -1,5 +1,5 @@
-<a href="#"><img width="90%" height="450px" src="https://cdn.dribbble.com/users/2020431/screenshots/7254215/media/86f77331db93858c882d502cc1479608.gif" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shrenik R</h1>
+<a href="#"><img width="100%" height="600px" src="https://getwallpapers.com/wallpaper/full/8/6/4/366696.jpg" height="100%"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Shrenik R</h1>
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m @Shrenik811rp
@@ -39,13 +39,6 @@
 <a href="https://github.com/Shrenik811rp/github-readme-stats"><img alt="Shrenik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrenik811rp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
-<br/>
-
-<a href="https://github.com/Shrenik811rp/github-readme-activity-graph"><img alt="Shrenik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shrenik811rp&bg_color=0D1117&color=fcba03&line=42EFF5&point=FC008B&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 
 ## Connect with me:
 <p align="left">
