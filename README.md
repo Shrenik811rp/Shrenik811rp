@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://github.com/Shrenik811rp">
-    <img src="https://raw.githubusercontent.com/Shrenik811rp/Shrenik811rp/output/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 25px rgba(0, 198, 255, 0.3);" />
+    <img src="https://raw.githubusercontent.com/Shrenik811rp/Shrenik811rp/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 25px rgba(0, 198, 255, 0.3);" />
   </a>
 </p>
 
