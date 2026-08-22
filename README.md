@@ -1,61 +1,82 @@
-<a href="#"><img width="100%" height="600px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="100%"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Shrenik R</h1>
-
-## 🙋‍♂️ About Me
-- 👋 Hi, I’m @Shrenik811rp
-- 👀 I’m interested in Machine Learning, web development ,data science and all sorts of crazy tech.
-- 🌱 I’m currently learning Data science, web devlopment and anything that interests me 😊.
-- 💞️ I’m looking to collaborate on projects related to machine learning or data science.
-- 📫 How to reach me at my personal email id : rshrenik811@gmail.com 
-- 📫 How to reach me at my academic email id : BL.EN.U4EAC19068@bl.students.amrita.edu
-- 📃 Here is my [portfolio](https://shrenik811rp.github.io/portfolio_v.0.0.2/) <br>
-## 🚀 Languages and Tools:
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-     <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"                alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.tensorflow.org/" target="_blank">    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank">     <img src="https://img.icons8.com/nolan/64/matlab.png"/>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-<br>
 <p align="center">
-    <a href="https://github.com/Shrenik811rp/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shrenik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrenik811rp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://shrenik811rp.github.io/shrenik-pillai-portfolio-v1.0.0/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Shrenik%20Pillai&fontSize=48&fontAlignY=38&desc=DevOps%20%7C%20Data%20Infrastructure%20%7C%20MLOps%20Engineer&descAlignY=62&descScale=18&animation=twinkle&textColor=ffffff" width="100%" alt="Header Banner"/>
+  </a>
 </p>
 
-## 📊 My Github Stats:
-[![Shrenik's github stats](https://github-readme-stats.vercel.app/api?username=Shrenik811rp&theme=algolia&show_icons=true&hide_border=true)](https://github.com/Shrenik811rp/github-readme-stats)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Shrenik+Pillai!;DevOps+%26+Data+Infrastructure+Engineer;MS+in+Business+Analytics+%26+AI+%40+UT+Dallas;Building+Scalable+Data+Pipelines+%26+AI+Systems" alt="Typing Title" />
+  </a>
+</p>
 
-<a href="https://github.com/Shrenik811rp/github-readme-stats"><img alt="Shrenik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrenik811rp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3emN4cmF4ZnB1Yzh0OHkyMmluMzRhY3M3dDFrcmswbXdpbm1qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v81zp65/giphy.gif" alt="Coding Banner" width="100%" height="280px" style="border-radius: 12px; object-fit: cover; box-shadow: 0px 4px 20px rgba(0,198,255,0.25);"/>
+</p>
+
+<p align="center">
+  <a href="https://shrenik811rp.github.io/shrenik-pillai-portfolio-v1.0.0/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Interactive_Site-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shrenik-r" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:danroe007@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-danroe007-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Personal Email"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dal381160@utdallas.edu">
+    <img src="https://img.shields.io/badge/UT_Dallas-dal381160-E85E00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UTD Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shrenik811rp?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Shrenik811rp?label=GitHub%20Followers&style=for-the-badge&color=181717&logo=github" alt="Followers Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://komarev.com/ghpvc/?username=Shrenik811rp">
+    <img src="https://komarev.com/ghpvc/?username=Shrenik811rp&label=PROFILE+VIEWS&color=00C6FF&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
+
 <br/>
 
-## Connect with me:
-<p align="left">
+## 💫 About Me
 
-<a href = "https://www.linkedin.com/in/shrenik-r-2a861b197/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#">[<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/NickShawn18)</a>
-<a href = "#">[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:BL.EN.U4EAC19068@bl.students.amrita.edu)</a></p>
-## ❤ Views and Followers:
-<a href="https://github.com/Shrenik811rp/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Shrenik811rp">
-</a>
-<br>
-<a href="https://github.com/Shrenik811rp?tab=followers"><img src="https://img.shields.io/github/followers/Shrenik811rp?label=Followers&style=social" alt="GitHub Badge"></a><br>
+- 🧑‍💻 **DevOps & Data Infrastructure Engineer** pursuing an **MS in Business Analytics & AI** at **The University of Texas at Dallas**
+- ⚙️ **3+ years of experience** architecting CI/CD pipelines, containerizing workloads (**Docker/Kubernetes**), and managing IaC (**Terraform/Ansible**)
+- 🤖 Specialized in **MLOps**, **CUDA GPU acceleration**, real-time data processing, and **System Telemetry**
+- 🚀 Focused on enterprise reliability, minimizing MTTR, and deploying scalable distributed systems
 
-## Any suggestions or feedback are welcome 😊
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-92d3-db90d3d14552.gif" width="100%" />
 
-<!---
-Shrenik811rp/Shrenik811rp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔭 Current Focus & Engineering Highlights
+
+- ⚡ **Building:** Enterprise-grade MLOps pipelines and resilient distributed data infrastructure
+- 📚 **Learning:** Advanced CUDA GPU kernel acceleration and Kubernetes Service Mesh architectures
+- 💬 **Ask me about:** Docker, Kubernetes, Terraform, CI/CD Automation, Data Engineering & Cloud Infra
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-92d3-db90d3d14552.gif" width="100%" />
+
+## 🧠 Tech Stack & Developer Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,go,bash,docker,kubernetes,terraform,ansible,aws,azure,jenkins,gitlab,postgres,mongodb,elasticsearch,tensorflow,opencv,linux,git&perline=10" alt="Tech Stack"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-92d3-db90d3d14552.gif" width="100%" />
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shrenik811rp/Shrenik811rp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-92d3-db90d3d14552.gif" width="100%" />
+
+<p align="center">
+  <i>Any suggestions or feedback are welcome! Feel free to connect or drop an email.</i>
+</p>
