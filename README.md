@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3emN4cmF4ZnB1Yzh0OHkyMmluMzRhY3M3dDFrcmswbXdpbm1qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v81zp65/giphy.gif" alt="Coding Banner" width="100%" height="280px" style="border-radius: 12px; object-fit: cover; box-shadow: 0px 4px 20px rgba(0,198,255,0.25);"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3emN4cmF4ZnB1Yzh0OHkyMmluMzRhY3M3dDFrcmswbXdpbm1qYyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v81zp65/giphy.gif" alt="Coding Banner" width="100%" height="280px" style="border-radius: 12px; object-fit: cover; box-shadow: 0px 4px 20px rgba(0,198,255,0.25);"/>
 </p>
 
 <p align="center">
@@ -69,10 +69,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-92d3-db90d3d14552.gif" width="100%" />
 
-## 🐍 Contribution Snake
+## 🏙️ 3D Contribution Skyline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shrenik811rp/Shrenik811rp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+  <a href="https://github.com/Shrenik811rp">
+    <img src="https://raw.githubusercontent.com/Shrenik811rp/Shrenik811rp/output/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 25px rgba(0, 198, 255, 0.3);" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-92d3-db90d3d14552.gif" width="100%" />
